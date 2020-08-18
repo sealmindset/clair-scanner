@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/arminc/clair-scanner.svg?branch=master)](https://travis-ci.org/arminc/clair-scanner)
 [![Go Report Card](https://goreportcard.com/badge/github.com/arminc/clair-scanner)](https://goreportcard.com/report/github.com/arminc/clair-scanner)
 [![Coverage Status](https://coveralls.io/repos/github/arminc/clair-scanner/badge.svg?branch=master)](https://coveralls.io/github/arminc/clair-scanner?branch=master)
+[![DepShield Badge](https://depshield.sonatype.org/badges/sealmindset/clair-scanner/depshield.svg)](https://depshield.github.io)
 
 ## Docker containers vulnerability scan
 
